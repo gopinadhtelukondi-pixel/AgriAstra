@@ -1,0 +1,10 @@
+{
+  "icar_sample.pdf": {
+    "document_title": "Exact title shown in the source publication",
+    "issuing_organization": "ICAR or agricultural university name",
+    "crop_category": ["paddy"],
+    "publication_date": "YYYY or YYYY-MM-DD",
+    "source_url": "https://official-source.example/publication"
+  }
+}
+
